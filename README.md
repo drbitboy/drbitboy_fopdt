@@ -23,5 +23,5 @@ Crude model of sludge water aeration cf. https://www.plctalk.net/qanda/showthrea
 * Python module fopdt with class FOPDT32
 * Requires module numpy
 * Require module matplotlib to plot
-
+# Result of [python fopdt.py --plot]
 ![](https://github.com/drbitboy/drbitboy_fopdt/raw/master/do_ditch.png)
